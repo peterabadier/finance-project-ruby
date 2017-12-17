@@ -1,0 +1,13 @@
+[user]
+	name = Peter Abadier
+	email = abadierb4@students.rowan.edu
+[core]
+    editor = nano
+    whitespace = off
+    excludesfile = ~/.gitignore
+[advice]
+    statusuoption = false
+[color]
+    ui = true
+[push]
+    default = current
